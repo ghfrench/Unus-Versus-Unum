@@ -51,8 +51,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\TestLevel\scripts\breakablelight.cs" />
+     <Compile Include="Assets\TestLevel\scripts\crate.cs" />
+     <Compile Include="Assets\TestLevel\scripts\explosionForce.cs" />
+     <Compile Include="Assets\TestLevel\scripts\explosive.cs" />
+     <Compile Include="Assets\TestLevel\scripts\ImpactAudio.cs" />
+     <Compile Include="Assets\TestLevel\scripts\Lightflicker.cs" />
+     <Compile Include="Assets\TestLevel\scripts\playrandomsound.cs" />
+     <Compile Include="Assets\TestLevel\scripts\waitAndDestroy.cs" />
      <Compile Include="Assets\Weapons\WeaponActions.cs" />
+     <None Include="Assets\TestLevel\environment\skyshader1.0\mysky.shader" />
+     <None Include="Assets\TestLevel\environment\customTrees\Materials\TreeCreatorLeavesFastOptimized.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\TestLevel\shaders\snowTop.shader" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
