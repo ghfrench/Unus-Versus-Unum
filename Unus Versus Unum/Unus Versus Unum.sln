@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unus Versus Unum", "Assembly-CSharp.csproj", "{3A97C3AD-3CCC-4FFD-F0C7-E018E4D7F134}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unus Versus Unum", "Assembly-CSharp-firstpass.csproj", "{EF747297-90A8-2507-46E1-F7F4EE9FB2D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unus Versus Unum", "Assembly-CSharp-Editor-firstpass.csproj", "{0BBC606A-133A-7D16-9668-F88F668D3BA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{3A97C3AD-3CCC-4FFD-F0C7-E018E4D7F134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A97C3AD-3CCC-4FFD-F0C7-E018E4D7F134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A97C3AD-3CCC-4FFD-F0C7-E018E4D7F134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF747297-90A8-2507-46E1-F7F4EE9FB2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF747297-90A8-2507-46E1-F7F4EE9FB2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF747297-90A8-2507-46E1-F7F4EE9FB2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF747297-90A8-2507-46E1-F7F4EE9FB2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BBC606A-133A-7D16-9668-F88F668D3BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBC606A-133A-7D16-9668-F88F668D3BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBC606A-133A-7D16-9668-F88F668D3BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBC606A-133A-7D16-9668-F88F668D3BA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
